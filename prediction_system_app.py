@@ -15,8 +15,8 @@ scaler = StandardScaler()
 
 #Loading the saved model
 
-loaded_model = pickle.load(open('/Users/manas/Desktop/MachineLearning/DiabetesPrediction/trained_model.sav','rb'))
-scaler = pickle.load(open('/Users/manas/Desktop/MachineLearning/DiabetesPrediction/standardized_data.pkl','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
+scaler = pickle.load(open('standardized_data.pkl','rb'))
     
 
 def diabetes_prediction(input_data):
