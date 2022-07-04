@@ -5,7 +5,7 @@ This is a Diabetes Prediction System build using Support Vector Machine algorith
 
 <hr>
 
-## Screenshots of the game
+## Screenshots of the predictor
 
 <img src = "Demo/Screenshot from 2022-07-05 00-55-55.png">
 <img src = "Demo/Screenshot from 2022-07-05 00-57-03.png">
